@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="649fce11-b52c-4a08-bdb1-1c3976fb4fb1" name="restful_db@127.0.0.1 Mapping">
+      <data-sources db="0e1c271b-6967-4b76-ab20-af62e9879b07" ddl="e20b694a-aad3-4d83-9966-8dc13b11c4c4" />
+    </mapping>
+  </component>
+</project>

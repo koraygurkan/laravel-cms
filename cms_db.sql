@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Anamakine: localhost:3306
--- Üretim Zamanı: 21 May 2024, 17:45:03
+-- Üretim Zamanı: 25 May 2024, 16:46:35
 -- Sunucu sürümü: 5.5.68-MariaDB
 -- PHP Sürümü: 8.0.28
 
@@ -324,7 +324,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `user_file`, `role`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`, `user_status`) VALUES
-(7, '664cf81aecb1e.jpg', 'admin', 'Koray Gürkan Danacı', 'koraygurkandanaci@gmail.com', NULL, '$2y$10$tarx6ziXKiFIPNlmHCogmOEYWFMe/XTz/Q9CVDq0VjbAg4gN70yYy', 'Pip3vTnDMg9ZIx49Gs8e8qHlUj1Zkx6yNq29rgW5QdtRgJ0ERNuJBmOpSYje', '2023-11-01 22:02:34', '2024-05-21 23:38:02', '1'),
+(7, '664d19ea32497.jpg', 'admin', 'Koray Gürkan Danacı', 'koraygurkandanaci@gmail.com', NULL, '$2y$10$tarx6ziXKiFIPNlmHCogmOEYWFMe/XTz/Q9CVDq0VjbAg4gN70yYy', 'Pip3vTnDMg9ZIx49Gs8e8qHlUj1Zkx6yNq29rgW5QdtRgJ0ERNuJBmOpSYje', '2023-11-01 22:02:34', '2024-05-22 02:02:18', '1'),
 (9, '664cf7f0d1c29.jpg', 'admin', 'koray', 'koraygurkandanaci@hotmail.com', NULL, '$2y$10$j4.GsgM6EWgZWjda6N9XQeiMO0yg29IvYBJ1B06k/hpr145YgQgum', NULL, '2023-11-03 00:22:35', '2024-05-21 23:37:20', '1');
 
 --

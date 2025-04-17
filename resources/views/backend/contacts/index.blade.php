@@ -12,7 +12,7 @@
                     <tr>
                         <th scope="col">ID</th>
                         <th scope="col">Ad</th>
-                        <th scope="col">E-mail</th>
+                        <th scope="col">Email</th>
                         <th scope="col">Telefon</th>
                         <th scope="col">Mesaj</th>
                         <th scope="col"></th>
